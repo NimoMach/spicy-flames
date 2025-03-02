@@ -1,0 +1,88 @@
+.banner-section{
+    background-image: url("assets/top-background-img.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+h1{
+    color: rgb(0, 174, 255);
+}
+.logo-icon{
+    height: 40px;
+    width: 40px;
+}
+.logo-icon-text{
+    color: orange;
+    text-shadow: 2px 2px red;
+}
+.nav-items{
+    font-family: Verdana;
+    color: #D72638;
+    
+}
+.image{
+    height: 70%;
+    width: 100%;
+    border-radius: 10px;
+}
+.p-card{
+    text-align: center;
+    margin: 10px;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.menu-card{
+    text-align: center;
+    margin: 10px;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    border-width: 5px;
+}
+.payment-img{
+    height: 80%;
+    width: 100%;
+    padding: auto;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: inset;
+}
+.follow-us-section{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: 35px;
+    
+}
+.follow-us{
+    background-color: rgb(255, 224, 224);
+}
+.icon-properties{
+    padding: 10px;
+    color: #D72638;
+}
+/*
+------------------------menu-items css styling-------------------------------
+*/
+.main-container{
+    text-align: center;
+}
+.item-card{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}
+.item-image{
+    width: 50%;
+    height: 80%;
+    border-radius: 10px;
+}
+.card-info{
+    text-align: left;
+    padding: 20px;
+}
